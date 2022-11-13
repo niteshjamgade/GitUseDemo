@@ -7,5 +7,9 @@ public class Utility {
 public static Date getSysDate() {
 	return new Date();
 }
+public void m1() {
+	System.out.println("Utility.m1()");
+}
+
 
 }
